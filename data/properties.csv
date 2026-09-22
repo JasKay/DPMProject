@@ -1,1 +1,21 @@
-
+property_id,property_name,location,property_type,lettable_area_sqft,property_value
+P001,Cavendish Square,Mayfair,Office,185000,520000000
+P002,Victoria House,Victoria,Office,142000,410000000
+P003,Finsbury Tower,Finsbury,Office,210000,620000000
+P004,Kings Cross Central,Kings Cross,Mixed Use,175000,560000000
+P005,Oxford Street House,Oxford Street,Retail,98000,350000000
+P006,Paddington Square,Paddington,Office,225000,710000000
+P007,Holborn Gate,Holborn,Office,155000,470000000
+P008,Moorgate Exchange,Moorgate,Office,198000,590000000
+P009,Canary Wharf South,Canary Wharf,Office,240000,680000000
+P010,Waterloo Place,Waterloo,Mixed Use,132000,390000000
+P011,Shoreditch Works,Shoreditch,Office,87000,280000000
+P012,Camden Market Offices,Camden,Mixed Use,76000,245000000
+P013,City Point,City of London,Office,260000,820000000
+P014,Liverpool Street House,Liverpool Street,Office,188000,575000000
+P015,Southbank Central,South Bank,Office,205000,615000000
+P016,King William Street,City of London,Office,118000,365000000
+P017,West End Plaza,West End,Retail,92000,315000000
+P018,Stratford Gateway,Stratford,Mixed Use,145000,420000000
+P019,Clerkenwell House,Clerkenwell,Office,83000,265000000
+P020,Battersea Exchange,Battersea,Mixed Use,128000,375000000

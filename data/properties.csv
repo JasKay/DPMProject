@@ -2,7 +2,7 @@ property_id,property_name,location,property_type,lettable_area_sqft,property_val
 P001,Cavendish Square,Mayfair,Office,185000,520000000
 P002,Victoria House,Victoria,Office,142000,410000000
 P003,Finsbury Tower,Finsbury,Office,210000,620000000
-P004,Kings Cross Central,Kings Cross,Mixed Use,175000,560000000
+P004,Kings Cross Central,Kings Cross,Mixed-Use,175000,560000000
 P005,Oxford Street House,Oxford Street,Retail,98000,350000000
 P006,Paddington Square,Paddington,Office,225000,710000000
 P007,Holborn Gate,Holborn,Office,155000,470000000
